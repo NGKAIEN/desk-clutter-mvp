@@ -1,0 +1,4 @@
+# Optional PDF authoring only; runtime detection does not need these.
+reportlab>=4,<5
+pypdf>=5,<7
+pdfplumber>=0.11,<1
