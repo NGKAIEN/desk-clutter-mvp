@@ -1,4 +1,0 @@
-# Observed in a fresh Linux x86_64 / Python 3.12.14 environment, 2026-11-02.
-# Optional reproducibility constraints, not a cross-platform or hardware lock.
-numpy==2.5.4
-opencv-python==5.0.0.93

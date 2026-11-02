@@ -1,4 +1,0 @@
-# v05 demo, reports and offline tests; no camera SDK needed.
-# These ranges are compatibility constraints, not a frozen platform-specific lock.
-numpy>=2.0,<3
-opencv-python>=4.10,<6

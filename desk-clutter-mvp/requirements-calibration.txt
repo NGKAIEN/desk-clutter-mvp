@@ -1,3 +1,0 @@
-# Legacy four-corner calibration also imports Open3D.
--r requirements-live.txt
-open3d>=0.18,<1
