@@ -1,0 +1,32 @@
+# Local environments / tooling
+.venv/
+.venv-docs/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.agents/
+.codex/
+.DS_Store
+.env
+.env.*
+# Device/desk-specific calibration and potentially private captures
+/calibration*.json
+/plane_calibrations
+/height_diagnostics
+/height_backgrounds
+/outputs
+/data/*
+!/data/README.md
+/output/
+/tmp/
+/releases/
+/docs/archive/
+/*.png
+/*.jpg
+/*.jpeg
+*.bag
+*.pcd
+*.ply
+# Public documentation images belong under docs/images/ and are not ignored.
